@@ -18,7 +18,7 @@ if (input ==1)
     char name[20];
     printf("ADD patient name :");
     scanf("%s",name);
-    printf("patient %s is ADD now.",name);
+    printf("patient %s is ADD now.\n",name);
 
 }
 else if (input==2)
@@ -86,8 +86,15 @@ else if (input == 3)
 }
 else if (input == 4)
 {
+    printf("THANK YOU FOR USEING THIS ");
     return 0;
 }
+    else 
+
+    {
+        printf("you enter something wrong ......");
+    }
+     printf("THANK YOU FOR THIS ");
 
     return 0;
 }
