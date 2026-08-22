@@ -1,2 +1,1 @@
-1.The learning of  c in its starting stage and looks good and i am enjoying this journey of c and the target is to be consistent. (date:Monday,August 10,2026)
-  2.  The learning of is now in intermediate level and look nice because now i can see that i must going to create through this and to be consistent.(date:Thursday,August 20,2026)
+1.The learning of  c in its starting stage and looks good and i am enjoying this journey of c and the target is to be consistent. (date:Monday,August 10,2026)\n 2.The learning of is now in intermediate level and look nice because now i can see that i must going to create through this and to be consistent.(date:Thursday,August 20,2026)
