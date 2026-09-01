@@ -1,1 +1,9 @@
-The learning of  c in its starting stage and looks good and i am enjoying this journey of c and the target is to be consistent. (date:Monday,August 10,2026)The learning of is now in intermediate level and look nice because now i can see that i must going to create through this and to be consistent.(date:Thursday,August 20,2026) 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
